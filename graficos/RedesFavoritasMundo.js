@@ -22,6 +22,7 @@ async function redesFavoritasMundo() {
         height: 700,
         title: {
             text: 'Os 10 Países Mais Populosos do Mundo em 2024',
+    
             x: 0,
             font: {
                 color: getCSS('--primary-color'),
